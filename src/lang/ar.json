@@ -1,0 +1,45 @@
+{
+  "UI": {
+    "SureToChangeLanguage":"هل أنت متأكد من تغيير اللغة؟",
+    "Confirmation":"تنبيه",
+    "Yes":"نعم",
+    "No":"لا",
+    "noData":"لا يوجد معاملات الان.",
+    "unit":"جنية",
+    "ok":"حسنا",
+    "SureToDelete":"هل أنت متأكد أنك تريد حذف هذه المعاملة؟",
+    "SureToClear":"هل أنت متأكد أنك تريد حذف جميع المعاملات؟",
+    "clearAll":"مسح الكل",
+    "filterBy":"فلتر حسب",
+    "sortBy":"ترتيب حسب",
+    "dateAscending":"التاريخ تصاعديًا",
+    "dateDescending":"التاريخ تنازليًا",
+    "all":"الكل",
+    "summaryForMonth":"ملخص للشهر الحالي",
+    "totalIncome":"إجمالي الدخل:",
+   "totalExpense":"إجمالي النفقات:"
+  },
+  "Navigation": {
+    "transactions":"المعاملات",
+    "addTransaction":"إضافة معاملة",
+    "summaryView":"إحصائيات"
+  },
+  "Add": {
+    "type":"النوع",
+    "amount":"المبلغ",
+    "date":"التاريخ",
+    "category":"الفئة",
+    "income":"دخل",
+    "expense":"إنفاق",
+    "save":"حفظ",
+    "description":"الوصف",
+    "writeHere":"أكتب هنا",
+    "addedSuccessfully":"تم إضافة المعاملة بنجاح."
+  },
+  "List": {
+  
+  },
+  "Summary": {
+ 
+  }
+}

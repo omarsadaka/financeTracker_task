@@ -1,0 +1,39 @@
+{
+  "UI": {
+   "SureToChangeLanguage":"Are you sure you want to change the language ?",
+   "Confirmation":"Warning",
+   "Yes":"Yes",
+   "No":"No",
+   "noData":"No Transactions right now.",
+   "unit":"LE",
+   "ok":"OK",
+   "SureToDelete":"Are you sure you want to delete this transaction ?",
+   "SureToClear":"Are you sure you want to clear all transactions ?",
+   "clearAll":"Clear all",
+   "filterBy":"Filter by",
+   "sortBy":"Sort by",
+   "dateAscending":"Date ascending",
+   "dateDescending":"Date descending",
+   "all":"All",
+   "summaryForMonth":"Summary for the current month",
+   "totalIncome":"Total Income:",
+   "totalExpense":"Total Expense:"
+  },
+  "Navigation": {
+    "transactions":"Transactions",
+    "addTransaction":"Add transaction",
+    "summaryView":"Summary"
+  },
+  "Add": {
+   "type":"Type",
+    "amount":"Amount",
+    "date":"Date",
+    "category":"Category",
+    "income":"Income",
+    "expense":"Expense",
+    "save":"Save",
+    "description":"Description",
+    "writeHere":"Write here",
+    "addedSuccessfully":"Transaction added successfully."
+  }
+}
