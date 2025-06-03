@@ -1,3 +1,19 @@
+comments by Omar
+
+- to install node_modules in android
+  run this command
+  "npm install" if get error run "npm install --legacy-peer-deps"
+
+- to run app in android mode
+  run this command "react-native run-android"
+
+- to install node_modules in ios
+  move to ios folder cd ios
+  run this command "pod install"
+
+- to run app in ios mode
+  run this command "react-native run-ios"
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
