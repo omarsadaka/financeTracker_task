@@ -14,6 +14,12 @@ comments by Omar
 - to run app in ios mode
   run this command "react-native run-ios"
 
+- I used redux to store app language
+- Added localization app support arabic and english
+- you can delete specific transaction
+- And I used custom components for all ui component
+  Finally this task takes about 12 hour
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
